@@ -1,0 +1,42 @@
+
+.div1 {
+  background: url(https://s-media-cache-ak0.pinimg.com/originals/98/0d/2c/980d2c22de89ed1cc027cacc4a5afe85.jpg);
+  background-repeat:no-repeat;
+  background-size:100% 100%;
+  height:800px;
+  border: -10px;
+  
+}
+.ul1{
+  padding:10px;
+  background-color: black;
+}
+.li1 {
+  font-weight: 900;
+  font-size: 20px;
+  font-family: 'Architects Daughter', cursive;
+  color: red;
+  
+}
+.div2{
+  background: black;
+}
+.div3 {
+  padding: 40px;
+  font-size: 28px;
+  font-family:'Comfortaa', cursive;
+}
+.img2 {
+  oppacity: 1;
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-bottom: 20px;
+  height: 275px;
+}
+.div4 {
+  background: white;
+}
+h1 {
+  font-family:'Gloria allelujah', cursive;
+
+}
